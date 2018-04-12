@@ -1,5 +1,5 @@
 
-## How to run
+## How to run project
 
 
 then open this link in the web browser
