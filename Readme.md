@@ -1,5 +1,5 @@
 
-## How to run this porject 
+## How
 
 
 then open this link in the web browser
